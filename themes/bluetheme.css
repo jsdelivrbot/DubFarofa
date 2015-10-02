@@ -53,7 +53,7 @@ a:hover, a:visited {
 }
 #player-controller ul li a:hover, 
 #player-controller ul li a.voted {
-    background: #42A5DC;
+    background: #AA74FE;
     opacity: 1;
 }
 #player-controller ul li a.dubdown:hover {
