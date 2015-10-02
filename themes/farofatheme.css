@@ -99,7 +99,7 @@ a:hover, a:visited {
 }
 #private-messages .main-message-list ul.message-list li.message-item .message-content .username-handle, 
 #private-messages .message-details ul.message-list li.message-item .message-content .username-handle {
-    color: #42A5DC;
+    color: #FFDD6F;
     font-weight: bold;
 }
 
