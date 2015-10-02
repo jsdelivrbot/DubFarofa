@@ -264,8 +264,13 @@ button:hover {
     opacity: 0.75;
     transition: left 0.0s ease-in 0.0s;
 }
-ul.avatar-list li.mod:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after, ul.avatar-list li.currentDJ:after {
-    background: #DC42A5;
+ul.avatar-list li.mod:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after {
+    background: #AA74FE;
+    opacity: 0.95;
+    color: #000;
+}
+ul.avatar-list li.currentDJ:after {
+    background: #42A5DC;
     opacity: 0.95;
     color: #000;
 }
