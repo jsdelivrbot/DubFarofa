@@ -354,7 +354,7 @@ ul.avatar-list li.downdub {
 }
 #browser ul.playlist-style li:hover .add_to_queue, 
 #browser ul.playlist-style li:hover .delete {
-    color: #42A5DC;
+    color: #AA74FE;
     opacity: 1;
 }
 #results_video_api a.tt-wrapper.playlist_type.playlist_type_private, 
@@ -372,7 +372,7 @@ ul.avatar-list li.downdub {
     font-size: 1.5em;
 }
 #addToPlaylistFloatContainer .create-playlist-input span {
-    background: #42A5DC;
+    background: #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li .description p {
     color: #42A5DC;
