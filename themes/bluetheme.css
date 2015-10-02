@@ -230,7 +230,7 @@ button:hover {
     opacity: 1;
 }
 #chat .chat-container ul.chat-main li.group-mods .activity-row .text p a.username {
-    color: #42A5DC !important;
+    color: #AA74FE !important;
     opacity: 1;
 	font-weight: 600
 }
@@ -265,7 +265,7 @@ button:hover {
     transition: left 0.0s ease-in 0.0s;
 }
 ul.avatar-list li.mod:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after, ul.avatar-list li.currentDJ:after {
-    background: #42A5DC;
+    background: #AA74FE;
     opacity: 0.95;
     color: #000;
 }
