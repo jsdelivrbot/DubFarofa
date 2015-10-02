@@ -33,7 +33,7 @@ a:hover, a:visited {
 
 /* Bottom Bar */
 #player-controller ul li a.playbtn:hover {
-    background-color: #42A5DC !important;
+    background-color: #AA74FE !important;
 }
 #volume-div .ui-slider-handle {
     background: #42A5DC;
