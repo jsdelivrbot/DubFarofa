@@ -251,6 +251,7 @@ button:hover {
     color: #42A5DC;
     opacity: 1;
     font-weight: 400
+    font-weight: bold;
 }
 
 /* User tab */
