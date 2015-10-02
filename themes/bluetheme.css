@@ -265,7 +265,7 @@ button:hover {
     transition: left 0.0s ease-in 0.0s;
 }
 ul.avatar-list li.mod:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after, ul.avatar-list li.currentDJ:after {
-    background: #AA74FE;
+    background: #DC42A5;
     opacity: 0.95;
     color: #000;
 }
