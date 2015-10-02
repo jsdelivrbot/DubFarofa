@@ -359,7 +359,7 @@ ul.avatar-list li.downdub {
 }
 #browser ul.playlist-style li:hover .add_to_queue, 
 #browser ul.playlist-style li:hover .delete {
-    color: #AA74FE;
+    color: #42A5DC;
     opacity: 1;
 }
 #results_video_api a.tt-wrapper.playlist_type.playlist_type_private, 
