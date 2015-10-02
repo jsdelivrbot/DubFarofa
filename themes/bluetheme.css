@@ -375,18 +375,18 @@ ul.avatar-list li.downdub {
     background: #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li .description p {
-    color: #42A5DC;
+    color: #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li .display-success {
-    background: #42A5DC;
+    background: #AA74FE;
     color: #000;
 }
 #browser .content-videos ul.browserPlaylistItems>li .actions a .spinner>div {
-    background: #42A5DC;
+    background: #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li .display-error, 
 #browser .content-videos ul.browserPlaylistItems>li .display-success {
-    background: #42A5DC;
+    background: #AA74FE;
 }
 #results_video_api .playlist_info {
     background: #111;
