@@ -8,7 +8,7 @@
     background: #42A5DC;
 }
 a:hover, a:visited {
-    color: #90AD2F;
+    color: #42A5DC;
 }
 #warning {
     background: #42A5DC;
@@ -278,7 +278,7 @@ ul.avatar-list li.mod:after, ul.avatar-list li.creator:after, ul.avatar-list li.
     border: 1px solid #42A5DC;
 }
 ul.avatar-list li.updub {
-    border: 1px solid #42A5DC;
+    border: 1px solid #90AD2F;
 }
 ul.avatar-list li.downdub {
     border: 1px solid #DC42A5;
