@@ -287,7 +287,7 @@ button:hover {
     font-size: .6em;
 }
 #chat .chat-container ul.chat-main li .activity-row .text span.username-handle {
-    color: #CCC;
+    color: #FFDD6F;
     opacity: 1;
     font-weight: 400;
 }
