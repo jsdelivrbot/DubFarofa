@@ -336,7 +336,7 @@ button:hover {
 } /* barra colorida */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
 #chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b, /* robot8bit */
-#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b, { /* lucaskpopper */
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b { /* lucaskpopper */
 	box-shadow: -4px 0px 0px #EEC900;
 } /* username colorido staff */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
