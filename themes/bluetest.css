@@ -385,19 +385,21 @@ ul.avatar-list li.co-owner:after {
     color: #519CD7;
 }
 ul.avatar-list li.manager:after {
-    color: #AA74FE;
+    color: #FFD700;
 }
 ul.avatar-list li.mod:after {
-    color: #32CD32;
+    color: #E8E8E8;
 }
 ul.avatar-list li.vip:after {
-    color: #EE9A00;
+    color: #EE7621;
 }
 ul.avatar-list li.resident-dj:after {
     color: #519CD7;
 }
 ul.avatar-list li.currentDJ:after {
-    color: #FFDD6F;
+    color: #fff;
+    background: #32CD32;
+    opacity: 0.95;
 }
 #user_popover {
     background: #111;
