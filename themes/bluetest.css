@@ -412,13 +412,13 @@ ul.avatar-list li.co-owner:after {
     color: #519CD7;
 }
 ul.avatar-list li.manager:after {
-    color: #519CD7;
+    color: #AA74FE;
 }
 ul.avatar-list li.mod:after {
-    color: #519CD7;
+    color: #32CD32;
 }
 ul.avatar-list li.vip:after {
-    color: #519CD7;
+    color: #EE9A00;
 }
 ul.avatar-list li.resident-dj:after {
     color: #519CD7;
