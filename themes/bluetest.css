@@ -85,28 +85,28 @@ a:visited {
 }
     
 #player-controller ul li a.dubup:hover {
-    background: #519CD7;
+    background: #90AD2F;
     color: #111;
     opacity: 0.66;
 }
 #player-controller ul li a.dubup.voted {
-    background: #519CD7;
+    background: #90AD2F;
     color: #111;
     opacity: 1;
 }
 #player-controller ul li a:hover, 
 #player-controller ul li a.voted {
-    background: #519CD7;
+    background: #AA74FE;
     color: #111;
     opacity: 1;
 }
 #player-controller ul li a.dubdown:hover {
-    background: #D7519C;
+    background: #C42E3B;
     color: #111;
     opacity: 0.66;
 }
 #player-controller ul li a.dubdown.voted {
-    background: #D7519C;
+    background: #C42E3B;
     color: #111;
     opacity: 1;
 }
