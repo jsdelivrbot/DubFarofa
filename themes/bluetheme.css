@@ -210,7 +210,10 @@ button:hover {
 #chat .chat-container ul.chat-main li .activity-row .text span.username-handle {
     color: #FFDD6F;
     opacity: 1;
-    font-weight: 400
+
+}
+#chat .chat-container ul.chat-main li .activity-row .text span.username-handle[style="color: rgba(255, 0, 255, 0.8);"] {
+    color: #FFDD6F !important;
 }
 #chat .chat-container ul.chat-main li:hover>.stream-item-content .chatDelete, 
 #chat .chat-container ul.chat-main li .stream-item-content:focus>.chatDelete {
