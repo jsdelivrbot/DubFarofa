@@ -338,13 +338,6 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-0, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b, /* lucaskpopper */
 	box-shadow: -4px 0px 0px #EEC900;
-} /* barra colorida mod */
-#chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a, /* riguel */
-#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217, /* popps */
-	box-shadow: -4px 0px 0px #EEC900;
-} /* barra colorida vip */
-#chat .chat-container ul.chat-main li.user-5609a34fd0fea60300391b66, /* rodrigo */
-	box-shadow: -4px 0px 0px #EEC900;
 } /* username colorido manager */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username { /* lucaskpopper */
