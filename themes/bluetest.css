@@ -338,14 +338,14 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000001,
 #chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000005,
 #chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000008,
-#chat .chat-container ul.chat-main li.user-5600e1bf2e803803000fee40, /* Roomba */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
 #chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 { /* Chillbot */
 	background: #181818;
 	box-shadow: 8px 0px 0px #181818;
 }
-#chat .chat-container ul.chat-main li.user-5600e1bf2e803803000fee40 .activity-row .text p a.username, /* Roomba */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 .activity-row .text p a.username { /* Chillbot */
-    color: #D7519C !important;
+    color: #AA74FE !important;
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
 }
