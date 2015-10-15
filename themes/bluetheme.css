@@ -217,7 +217,7 @@ button:hover {
 }
 #chat .chat-container ul.chat-main li:hover>.stream-item-content .chatDelete, 
 #chat .chat-container ul.chat-main li .stream-item-content:focus>.chatDelete {
-    color: #42A5DC !important;
+    color: #C42E3B !important;
     opacity: 0.75;
     font-size: 0.65em;
 }
