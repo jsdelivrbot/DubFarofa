@@ -57,11 +57,11 @@ a:hover, a:visited {
     opacity: 1;
 }
 #player-controller ul li a.dubdown:hover {
-    background: #DC42A5;
+    background: #ffec6f;
     opacity: 0.66;
 }
 #player-controller ul li a.dubdown.voted {
-    background: #DC42A5;
+    background: #ffec6f;
     opacity: 1;
 }
 #player-controller .right {
@@ -124,7 +124,7 @@ a:hover, a:visited {
     opacity: 0.75;
 }
 #main_player .player_container {
-    background-image: url(http://i.imgur.com/rvzzbzZ.png);
+    background-image: url(https://i.imgur.com/vRoiwnc.png);
 }
 #main_player .player_container .skip-el {
     background: #f36fad;
@@ -201,14 +201,14 @@ button:hover {
     opacity: 0.75;
 }
 #chat .chat-container ul.chat-main li.system {
-    color: #DC42A5;
+    color: #ffec6f;
     opacity: 1;
 }
 #chat .chat-container ul.chat-main li.system-error {
-    color: #DC42A5;
+    color: #ffec6f;
 }
 #chat .chat-container ul.chat-main li .activity-row .text span.username-handle {
-    color: #FF00FF;
+    color: #ffdd6f;
     opacity: 1;
     font-weight: 400
 }
@@ -226,7 +226,7 @@ button:hover {
     opacity: 1;
 }
 #chat .chat-container ul.chat-main li.group-dj .activity-row .text p a.username {
-    color: #DC42A5 !important;
+    color: #ffec6f !important;
     opacity: 1;
 }
 #chat .chat-container ul.chat-main li.group-mods .activity-row .text p a.username {
