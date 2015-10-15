@@ -344,11 +344,6 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username { /* lucaskpopper */
     color: #AA74FE !important;
     background-image: url(https://emoji.slack-edge.com/T048YL7UM/cohost/141e4fb864c6d905.png);
-    background-position: -210px -595px;
-    width: 30px;
-    height: 30px;
-    top: 3px !important;
-    left: 3px !important;
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
 } /* username em negrito user */
