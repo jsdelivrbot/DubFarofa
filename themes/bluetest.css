@@ -341,7 +341,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
 #chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 { /* Chillbot */
 	background: #181818;
-	box-shadow: 8px 0px 0px #AA74FE;
+	box-shadow: 8px 4px 0px #AA74FE;
 }
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 .activity-row .text p a.username { /* Chillbot */
