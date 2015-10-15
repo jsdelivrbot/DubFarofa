@@ -284,7 +284,7 @@ button:hover {
     opacity: 0.75;
 }
 #chat .chat-container ul.chat-main li.system {
-    color: #D7519C;
+    color: #C42E3B;
     opacity: 1;
     font-size: .6em;
     background: #202020;
@@ -303,7 +303,7 @@ button:hover {
 }
 #chat .chat-container ul.chat-main li:focus .chatDelete, 
 #chat .chat-container ul.chat-main li:hover .chatDelete {
-    color: #519CD7 !important;
+    color: #C42E3B !important;
     opacity: 0.75;
     font-size: 0.6em;
 }
