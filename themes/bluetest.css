@@ -334,10 +334,10 @@ button:hover {
     opacity: 1;
     font-weight: 400
 }
-#chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000001,
-#chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000005,
-#chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000008,
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
+#chat .chat-container ul.chat-main li.user-0, /* robot8bit */
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b, /* lucaskpopper */
+#chat .chat-container ul.chat-main li.user-0, /* vago */
 #chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 { /* Chillbot */
 	box-shadow: -4px 0px 0px #AA74FE;
 }
