@@ -44,11 +44,11 @@ a:hover, a:visited {
     opacity: 0.75;
 }
 #player-controller ul li a.dubup:hover {
-    background: #f36fad;
+    background: #97e77f;
     opacity: 0.66;
 }
 #player-controller ul li a.dubup.voted {
-    background: #f36fad;
+    background: #97e77f;
     opacity: 1;
 }
 #player-controller ul li a:hover,
@@ -57,11 +57,11 @@ a:hover, a:visited {
     opacity: 1;
 }
 #player-controller ul li a.dubdown:hover {
-    background: #ffec6f;
+    background: #ce3944;
     opacity: 0.66;
 }
 #player-controller ul li a.dubdown.voted {
-    background: #ffec6f;
+    background: #ce3944;
     opacity: 1;
 }
 #player-controller .right {
