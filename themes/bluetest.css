@@ -333,54 +333,29 @@ button:hover {
     color: #519CD7;
     opacity: 1;
     font-weight: 400
-}
+} /* barra colorida */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
 #chat .chat-container ul.chat-main li.user-0, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-0, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-0, /* vago */
-#chat .chat-container ul.chat-main li.user-0 { /* Chillbot */
+#chat .chat-container ul.chat-main li.user-0 { /* vago */
 	box-shadow: -4px 0px 0px #AA74FE;
-}
+} /* username colorido */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username { /* lucaskpopper */
     color: #AA74FE !important;
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
-}
-#chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000001 .activity-row .text p a.username, /* nambok */
-#chat .chat-container ul.chat-main li.user-52c8efcf37e22b0200000005 .activity-row .text p a.username, /* joe */
-#chat .chat-container ul.chat-main li.user-560b2e6d51464603008ebb24 .activity-row .text p a.username {/* alex */
+} /* username em negrito */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username {/* negrito vago */
     opacity: 1;
     font-weight: 600;
 }
-#chat .chat-container ul.chat-main li.user-5401cf1d738c5e0200a5ed9e .activity-row .text p a.username, /* Molly */
-#chat .chat-container ul.chat-main li.user-55ff52375335f703008b0d38 .activity-row .text p a.username, /* kris */
-#chat .chat-container ul.chat-main li.user-55ff6b62d0ce89030080f3c6 .activity-row .text p a.username, /* fishy */
-#chat .chat-container ul.chat-main li.user-55ffc1b6196f170300cc0ecf .activity-row .text p a.username, /* stray */
-#chat .chat-container ul.chat-main li.user-55ff2e401cef3e0300604c2c .activity-row .text p a.username, /* blau */
-#chat .chat-container ul.chat-main li.user-53acb44af60889020013e468 .activity-row .text p a.username, /* notturno */
-#chat .chat-container ul.chat-main li.user-55ff48c19ada760300c04eda .activity-row .text p a.username, /* chillstep */
-#chat .chat-container ul.chat-main li.user-55ffba16196f170300cc0e3b .activity-row .text p a.username, /* frenchie */
-#chat .chat-container ul.chat-main li.user-5600004ce3667d0300dcd9d3 .activity-row .text p a.username, /* cherry */
-#chat .chat-container ul.chat-main li.user-55ff8bf7196f170300cc0b2a .activity-row .text p a.username, /* mitch */
-#chat .chat-container ul.chat-main li.user-56057c33aab9a90300d8aad9 .activity-row .text p a.username, /* doctorzetin */
-#chat .chat-container ul.chat-main li.user-56003d36239f1303009c8530 .activity-row .text p a.username, /* aber */
-#chat .chat-container ul.chat-main li.user-55ff46735335f703008b0be6 .activity-row .text p a.username, /* curls */
-#chat .chat-container ul.chat-main li.user-55ff2805f2db2b030087e5d1 .activity-row .text p a.username, /* phil */
-#chat .chat-container ul.chat-main li.user-56015afd2d5038030094d7d4 .activity-row .text p a.username, /* calachi */
-#chat .chat-container ul.chat-main li.user-55ff9b861564a403003f4fec .activity-row .text p a.username, /* anderz */
-#chat .chat-container ul.chat-main li.user-56001ef1d2972003005ab233 .activity-row .text p a.username, /* bockness*/
-#chat .chat-container ul.chat-main li.user-55ff5b8af403a30300df114d .activity-row .text p a.username, /* swanmeat*/
-#chat .chat-container ul.chat-main li.user-55ff56cdd0ce89030080f2d0 .activity-row .text p a.username, /* braincomb*/
-#chat .chat-container ul.chat-main li.user-56008b05239f1303009c92f4 .activity-row .text p a.username, /* mawu */
-#chat .chat-container ul.chat-main li.user-55ffa427196f170300cc0ccc .activity-row .text p a.username, /* geologic*/
-#chat .chat-container ul.chat-main li.user-55ffced7196f170300cc0f75 .activity-row .text p a.username, /* theo*/
-#chat .chat-container ul.chat-main li.user-55ffc4d41564a403003f52b9 .activity-row .text p a.username, /* muchlove */
-#chat .chat-container ul.chat-main li.user-55ffaa731564a403003f50d5 .activity-row .text p a.username, /* axle */
-#chat .chat-container ul.chat-main li.user-5600a1f0bfb6340300a2dd65 .activity-row .text p a.username, /* zikelir */
-#chat .chat-container ul.chat-main li.user-5604ed62c4f5dd03004bbf4b .activity-row .text p a.username, /* police */
-#chat .chat-container ul.chat-main li.user-5600d6842d5038030094c623 .activity-row .text p a.username, /* banksy */
-#chat .chat-container ul.chat-main li.user-560347f4b585d003001b2f8c .activity-row .text p a.username  /* chief */ 
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
 {
     opacity: 1;
     font-weight: 600;
