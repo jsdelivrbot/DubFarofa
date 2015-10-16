@@ -365,6 +365,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
+#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
     padding-left: 15px;
 }
@@ -372,12 +373,12 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
+#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
     background-image: url("https://emoji.slack-edge.com/T048YL7UM/manager/8625a5f4bcbc5246.png");
     background-repeat: no-repeat;
     background-position: -3px 0px;
 } /* icon mod */
-#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
 #chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p:first-child, /* riguel */
 #chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child, /* tatibrito */
 #chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child, /* tiochad */
@@ -385,7 +386,6 @@ button:hover {
     padding-left: 15px;
 }
 
-#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
 #chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p:first-child, /* riguel */
 #chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child, /* tatibrito */
 #chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child, /* tiochad */
