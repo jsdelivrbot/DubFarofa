@@ -357,7 +357,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child {
     background-image: url("https://emoji.slack-edge.com/T048YL7UM/cohost/141e4fb864c6d905.png");
     background-repeat: no-repeat;
-    background-position: -3px;
+    background-position: -3px 0px;
 }
 } /* username em negrito user */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
