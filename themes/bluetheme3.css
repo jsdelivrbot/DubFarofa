@@ -451,7 +451,7 @@ button:hover {
     color: #111;
     opacity: 0.75;
     transition: left 0.0s ease-in 0.0s;
-} /*
+/*
 ul.avatar-list li p.username {
     color: #519CD7;
 }
@@ -480,6 +480,7 @@ ul.avatar-list li.currentDJ:after {
     color: #fff;
     background: #32CD32;
     opacity: 0.95; */
+}
 ul.avatar-list li p.username {
     color: #999;
 }
