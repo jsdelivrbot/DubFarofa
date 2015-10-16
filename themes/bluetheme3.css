@@ -505,7 +505,7 @@ ul.avatar-list li.resident-dj:after {
     color: #AA74FE;
 }
 ul.avatar-list li.currentDJ:after {
-    color: #fff;
+    color: #fff; !important;
     background: #32CD32;
     opacity: 0.95;
 }
