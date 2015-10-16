@@ -339,7 +339,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-0 { /* lucaskpopper */
 	box-shadow: 8px 0px 0px #00b5e6; 
 } /* username colorido admin */
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username { /* fu */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username { /* fu */
     color: #00b5e6 !important;
     font-weight: 600;
     text-shadow: 0px 0px 0px #000;
@@ -350,7 +350,7 @@ button:hover {
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
 } /* username colorido staff */
-#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* fu */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p a.username, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p a.username, /* pr0 */ 
