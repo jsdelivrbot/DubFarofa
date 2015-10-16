@@ -19,7 +19,7 @@ a:visited {
 #roomFormUpdate, #roomInfoModal {
     background: #111;
     border: 2px solid #519CD7;
-    color: #CCC;
+    color: #519CD7;
 }
 #roomFormUpdate .modal-header, #roomInfoModal .modal-header {
     background: #181818;
@@ -377,7 +377,6 @@ white-space: pre-line;
     background-image: url("http://i.imgur.com/NhrI7FG.png");
     background-repeat: no-repeat;
     background-position: -1px 0px;
-    padding-left: 18px;
 } /* icon brand ambrassador */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p:first-child, /* burkes */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p:first-child { /* xuxa */
