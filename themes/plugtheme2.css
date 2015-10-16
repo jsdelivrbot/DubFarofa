@@ -314,7 +314,88 @@ button:hover {
     word-break: break-word;
     word-wrap: break-word;
 }
+/* Special User Colours                 = = = = = = = = = = =*/
+#chat .chat-container ul.chat-main li .activity-row .text p a.username, 
+#chat .chat-container ul.chat-main li .activity-row .text p a.username:hover, 
+#chat .chat-container ul.chat-main li .activity-row .text p a.username:visited {
+    color: #519CD7;
+    opacity: 1;
+    font-weight: 400
+} /* barra colorida */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
+#chat .chat-container ul.chat-main li.user-0, /* robot8bit */
+#chat .chat-container ul.chat-main li.user-0 { /* lucaskpopper */
+	box-shadow: -4px 0px 0px #AA74FE; 
+} /* username colorido staff */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
+#chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p a.username, /* robot8bit */
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username, /* lucaskpopper */
+#chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p a.username, /* pr0 */ 
+#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p a.username, /* popps */
+#chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p a.username, /* sonlux */
+#chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p a.username, /* tiochad */
+#chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p a.username, /* chaneloberlin */
+#chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p a.username, /* riguel */
+#chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p a.username { /* tatibrito */
+    color: #AA74FE !important;
+    font-weight: 600;
+    text-shadow: 0px 0px 1px #000;
+} /* icon creator */
+#chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child {
+    padding-left: 15px;
+}
 
+#chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child {
+    background-image: url("https://emoji.slack-edge.com/T048YL7UM/cohost/141e4fb864c6d905.png");
+    background-repeat: no-repeat;
+    background-position: -3px 0px;
+} /* icon manager */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
+#chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
+#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
+#chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
+    padding-left: 15px;
+}
+
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
+#chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
+#chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
+#chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
+    background-image: url("https://emoji.slack-edge.com/T048YL7UM/manager/8625a5f4bcbc5246.png");
+    background-repeat: no-repeat;
+    background-position: -3px 0px;
+} /* icon mod */
+#chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p:first-child, /* riguel */
+#chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child, /* tatibrito */
+#chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child, /* tiochad */
+#chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child { /* sonlux */
+    padding-left: 15px;
+}
+
+#chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p:first-child, /* riguel */
+#chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child, /* tatibrito */
+#chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child, /* tiochad */
+#chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child { /* sonlux */
+    background-image: url("https://emoji.slack-edge.com/T048YL7UM/bouncer/ab92dd627618ec23.png");
+    background-repeat: no-repeat;
+    background-position: -3px 0px;
+}
+} /* username em negrito user */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username {/* negrito vago */
+    opacity: 1;
+    font-weight: 600;
+}
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
+{
+    opacity: 1;
+    font-weight: 600;
+}
 /* Username Colors                      = = = = = = = = = = =*/
     /* Classes 
 #chat .chat-container ul.chat-main li.group-user .activity-row .text p a.username {
@@ -339,26 +420,6 @@ button:hover {
     color: #AA74FE !important;
     opacity: 1;
 	font-weight: 600
-}
-/* Special User Colours                 = = = = = = = = = = =*/
-#chat .chat-container ul.chat-main li .activity-row .text p a.username, 
-#chat .chat-container ul.chat-main li .activity-row .text p a.username:hover, 
-#chat .chat-container ul.chat-main li .activity-row .text p a.username:visited {
-    color: #AA74FE;
-    opacity: 1;
-    font-weight: 400
-}
-#chat .chat-container ul.chat-main li.user-5600e1bf2e803803000fee40, /* Roomba */
-#chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 { /* Chillbot */
-	background: #181818;
-	box-shadow: 8px 0px 0px #181818;
-}
-#chat .chat-container ul.chat-main li.user-5600e1bf2e803803000fee40 .activity-row .text p a.username, /* Roomba */
-#chat .chat-container ul.chat-main li.user-55ff1b594c828c03008bd5f7 .activity-row .text p a.username { /* Chillbot */
-    color: #42A5DC !important;
-    font-size: 14px;
-    font-weight: 600;
-    text-shadow: 0px 0px 1px #000;
 }
 
 /* User tab                             = = = = = = = = = = =*/
