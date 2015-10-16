@@ -377,6 +377,7 @@ white-space: pre-line;
     background-image: url("http://i.imgur.com/NhrI7FG.png");
     background-repeat: no-repeat;
     background-position: -1px 0px;
+    padding-left: 18px;
 } /* icon brand ambrassador */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p:first-child, /* burkes */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p:first-child { /* xuxa */
@@ -428,7 +429,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child { /* sonlux */
     background-image: url("http://i.imgur.com/ZyLDC0K.png");
     background-repeat: no-repeat;
-    background-position: -3px -3px;
+    background-position: -3px 0px;
 }
 } /* username em negrito user */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
