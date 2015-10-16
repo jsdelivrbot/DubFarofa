@@ -345,20 +345,26 @@ button:hover {
     color: #AA74FE !important;
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
-}
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child,
-#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child,
+} /* icon creator */
 #chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child {
     padding-left: 15px;
 }
 
-#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child,
-#chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child,
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child {
+#chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child {
     background-image: url("https://emoji.slack-edge.com/T048YL7UM/cohost/141e4fb864c6d905.png");
     background-repeat: no-repeat;
     background-position: -3px 0px;
+} /* icon manager */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child,
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child {
+    padding-left: 15px;
 }
+
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child,
+#chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child {
+    background-image: url("https://emoji.slack-edge.com/T048YL7UM/manager/8625a5f4bcbc5246.png");
+    background-repeat: no-repeat;
+    background-position: -3px 0px;
 } /* username em negrito user */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
