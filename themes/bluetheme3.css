@@ -342,7 +342,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username { /* fu */
     color: #00b5e6 !important;
     font-weight: 600;
-    text-shadow: 0px 0px 1px #000;
+    text-shadow: 0px 0px 0px #000;
 } /* username colorido brand ambassador */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p a.username, /* burkes */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p a.username { /* xuxa */
