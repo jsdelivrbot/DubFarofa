@@ -329,7 +329,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li .activity-row .text p a.autolink:visited {
     color: #005d99;
 }
-#chat .chat-main li:nth-child(even){background:#0a0a0a;box-shadow:-9px 0px 0px 0px #0a0a0a;width:100%;}.chat-main li:nth-child(even) .chatDelete{right: 1.7em !important;}
+#chat .chat-container ul .chat-main li:nth-child(even){background:#0a0a0a;box-shadow:-9px 0px 0px 0px #0a0a0a;width:100%;}.chat-main li:nth-child(even) .chatDelete{right: 1.7em !important;}
 }
 
 /* Special User Colours                 = = = = = = = = = = =*/
