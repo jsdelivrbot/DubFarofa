@@ -481,7 +481,7 @@ ul.avatar-list li.currentDJ:after {
     background: #32CD32;
     opacity: 0.95; */
 ul.avatar-list li p.username {
-    color: #519CD7;
+    color: #999;
 }
 ul.avatar-list li.admin:after {
     color: #D7519C!important;
