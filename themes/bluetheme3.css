@@ -337,7 +337,7 @@ button:hover {
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d, /* fu */
 #chat .chat-container ul.chat-main li.user-0, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-0 { /* lucaskpopper */
-	box-shadow: -4px 0px 0px #00b5e6; 
+	box-shadow: -4px -1px 0px #00b5e6; 
 } /* username colorido admin */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username { /* fu */
     color: #00b5e6 !important;
