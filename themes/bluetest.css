@@ -393,6 +393,7 @@ button:hover {
     background-image: url("https://emoji.slack-edge.com/T048YL7UM/bouncer/ab92dd627618ec23.png");
     background-repeat: no-repeat;
     background-position: -3px 0px;
+}
 } /* username em negrito user */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
 #chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* negrito vago */
