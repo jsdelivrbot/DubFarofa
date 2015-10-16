@@ -19,7 +19,7 @@ a:visited {
 #roomFormUpdate, #roomInfoModal {
     background: #111;
     border: 2px solid #519CD7;
-    color: #519CD7;
+    color: #CCC;
 }
 #roomFormUpdate .modal-header, #roomInfoModal .modal-header {
     background: #181818;
