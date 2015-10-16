@@ -300,6 +300,10 @@ button:hover {
 #chat .chat-container ul.chat-main li .activity-row .text span.username-handle[style="color: rgba(255, 0, 255, 0.8);"] {
     color: #FFDD6F !important;
 }
+#chat .chat-container ul.chat-main li .activity-row .text p a.username:after {
+content: "\a ";
+white-space: pre-line;
+}
 #chat .chat-container ul.chat-main li:focus .chatDelete, 
 #chat .chat-container ul.chat-main li:hover .chatDelete {
     color: #C42E3B !important;
