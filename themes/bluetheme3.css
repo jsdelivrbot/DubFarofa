@@ -312,7 +312,7 @@ white-space: pre-line;
 }
 #chat .chat-container ul.chat-main li .activity-row .meta-info .username {
     font-size: .6em;
-    color: #FFDD6F;
+    color: #519CD7;
 }
 #chat .chat-container ul.chat-main li.chat-welcome-message {
 	color: #D7519C;
@@ -334,9 +334,9 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li .activity-row .text p a.username, 
 #chat .chat-container ul.chat-main li .activity-row .text p a.username:hover, 
 #chat .chat-container ul.chat-main li .activity-row .text p a.username:visited {
-    color: #519CD7;
+    color: #657f92;
     opacity: 1;
-    font-weight: 400
+    font-weight: 600
 } /* barra colorida */
 #chat .chat-container ul.chat-main li.user-0, /* fu */
 #chat .chat-container ul.chat-main li.user-0, /* robot8bit */
