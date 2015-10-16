@@ -329,8 +329,6 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li .activity-row .text p a.autolink:visited {
     color: #005d99;
 }
-.splitChatClass .chat-main li:nth-child(even){background:#181818;box-shadow:-9px 0px 0px 0px #181818;width:100%;}.chat-main li:nth-child(even) .chatDelete{right: 1.7em !important;}
-}
 
 /* Special User Colours                 = = = = = = = = = = =*/
 #chat .chat-container ul.chat-main li .activity-row .text p a.username, 
