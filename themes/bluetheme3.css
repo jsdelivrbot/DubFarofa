@@ -345,6 +345,7 @@ button:hover {
     text-shadow: 0px 0px 1px #000;
 } /* username colorido brand ambassador */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p a.username, /* burkes */
+#chat .chat-container ul.chat-main li.user-560b2e6d51464603008ebb24 .activity-row .text p a.username, /* nise */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p a.username { /* xuxa */
     color: #7abe6c !important;
     font-weight: 600;
@@ -374,11 +375,13 @@ button:hover {
     background-position: -1px 0px;
 } /* icon brand ambrassador */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p:first-child, /* burkes */
+#chat .chat-container ul.chat-main li.user-560b2e6d51464603008ebb24 .activity-row .text p:first-child, /* nise */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p:first-child { /* xuxa */
     padding-left: 18px;
 }
 
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p:first-child, /* burkes */
+#chat .chat-container ul.chat-main li.user-560b2e6d51464603008ebb24 .activity-row .text p:first-child, /* nise */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p:first-child { /* xuxa */
     background-image: url("http://i.imgur.com/HmO1aO5.png");
     background-repeat: no-repeat;
