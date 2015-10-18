@@ -512,11 +512,11 @@ ul.avatar-list li.user-burkes p.username {
 /* ### Border Highlight ### */
 
 /* Giving it space to fit the icon */
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p:first-child a.username, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-560db2d3cd5f210300722ff5 .activity-row .text p:first-child a.username, /* burkes */
 #chat .chat-container ul.chat-main li.user-551d295433cd73030089d184 .activity-row .text p:first-child a.username, /* swordling */
 #chat .chat-container ul.chat-main li.user-53afbc7067e3e202006dbd15 .activity-row .text p:first-child a.username, /* xuxa */
+#chat .chat-container ul.chat-main li.user-53f7c199892b010200a98809 .activity-row .text p:first-child a.username, /* sinful */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child a.username, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child a.username, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child a.username, /* popps */
@@ -525,9 +525,13 @@ ul.avatar-list li.user-burkes p.username {
 #chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p:first-child a.username, /* riguel */
 #chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child a.username, /* tatibrito */
 #chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child a.username, /* tiochad */
-#chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child a.username, /* sonlux */
+#chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child a.username { /* sonlux */
+    padding-left: 15px;
+}
+
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-53fea9128e8a6d0200c41c00 .activity-row .text p:first-child a.username { /* jessiey */ 
-    padding-left: 16px;
+    padding-left: 15px;
 }
 
 /* ### Icons ### */
