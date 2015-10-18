@@ -444,7 +444,7 @@ button:hover {
 
 /*​ Admin: fu - User List */
 ul.avatar-list li.user-fu p.username {
-   color: #00b5e6 ;
+   color: #00b5e6 !important;
    padding-left: 11px;
    
 }
