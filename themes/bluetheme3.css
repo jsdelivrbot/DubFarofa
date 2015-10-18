@@ -523,6 +523,7 @@ ul.avatar-list li.user-xuxa p.username {
 }
 
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child a.username, /* fu */
+#chat .chat-container ul.chat-main li.user-5609a34fd0fea60300391b66 .activity-row .text p:first-child a.username, /* rodrigo */
 #chat .chat-container ul.chat-main li.user-53fea9128e8a6d0200c41c00 .activity-row .text p:first-child a.username { /* jessiey */ 
     padding-left: 15px;
 }
@@ -583,13 +584,14 @@ ul.avatar-list li.mod {
 } 
 
 /* Resident DJ */
-#chat .chat-container ul.chat-main li.user-53fea9128e8a6d0200c41c00 .activity-row .text p:first-child, /*jessiey */
+#chat .chat-container ul.chat-main li.user-56098a6f81c87803009bf194 .activity-row .text p:first-child, /* killkill */
 ul.avatar-list li.resident-dj { 
     background-image: url("http://i.imgur.com/yl7ak1Q.png");
 }
 
 /* VIP */
-#chat .chat-container ul.chat-main li.user-53fea9128e8a6d0200c41c00 .activity-row .text p:first-child, /*jessiey */
+#chat .chat-container ul.chat-main li.user-53fea9128e8a6d0200c41c00 .activity-row .text p:first-child, /* jessiey */
+#chat .chat-container ul.chat-main li.user-5609a34fd0fea60300391b66 .activity-row .text p:first-child, /* rodrigo */
 ul.avatar-list li.vip {
     background-image: url("http://i.imgur.com/F2Q9vSX.png");
 }
