@@ -656,15 +656,6 @@ ul.avatar-list li.resident-dj p {
     color: #AA74FE !important;
 }
 
-/* BA */
-ul.avatar-list li.user-burkes p.username,
-ul.avatar-list li.user-swordling p.username,
-ul.avatar-list li.user-sinful p.username,
-ul.avatar-list li.user-xuxa p.username {
-    color: #89BE6C !important;
-
-}
-
 #user_popover {
     background: #111;
     border: 1px solid #519CD7;
