@@ -343,7 +343,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li.user-0 { /* lucaskpopper */
 	box-shadow: 8px 0px 0px #00b5e6; 
 } /* username colorido admin */
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username { /* fu */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username { /* fu */
     color: #00b5e6 !important;
     font-weight: 600;
     text-shadow: 0px 0px 0px #000;
@@ -355,7 +355,7 @@ white-space: pre-line;
     text-shadow: 0px 0px 1px #000;
     text-transform: capitalize;
 } /* username colorido staff */
-#chat .chat-container ul.chat-main li.user-0 .activity-row .text p a.username, /* fu */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p a.username, /* fu */
 #chat .chat-container ul.chat-main li.user-53ffc89591f71c0200babd6b .activity-row .text p a.username, /* robot8bit */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p a.username, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p a.username, /* pr0 */ 
@@ -370,11 +370,11 @@ white-space: pre-line;
     font-weight: 600;
     text-shadow: 0px 0px 1px #000;
 } /* icon admin */
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child { /* fu */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p:first-child { /* fu */
     padding-left: 18px;
 }
 
-#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child { /* fu */
+#chat .chat-container ul.chat-main li.user-0 .activity-row .text p:first-child { /* fu */
     background-image: url("http://i.imgur.com/NhrI7FG.png");
     background-repeat: no-repeat;
     background-position: -1px 0px;
@@ -401,7 +401,7 @@ white-space: pre-line;
     background-repeat: no-repeat;
     background-position: -3px 0px;
 } /* icon manager */
-#chat .chat-container ul.chat-main li.user-0 .activity-row .text p:first-child, /* fu */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
@@ -410,7 +410,7 @@ white-space: pre-line;
     padding-left: 15px;
 }
 
-#chat .chat-container ul.chat-main li.user-0 .activity-row .text p:first-child, /* fu */
+#chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
