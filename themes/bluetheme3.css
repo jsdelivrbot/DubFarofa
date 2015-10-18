@@ -442,6 +442,13 @@ button:hover {
     text-shadow: 0px 0px 1px #000;
 } 
 
+/*​ Admin: fu - User List */
+ul.avatar-list li.user-fu p.username {
+   color: #00b5e6 ;
+   padding-left: 11px;
+   
+}
+
 /* Staff Members - User List */
 ul.avatar-list li.creator p.username,
 ul.avatar-list li.co-owner p.username,
@@ -533,7 +540,7 @@ ul.avatar-list li {
 /* Admin: fu */
 #chat .chat-container ul.chat-main li.user-56083afba0e54d030033384d .activity-row .text p:first-child, /* fu */
 ul.avatar-list li.user-fu {
-    background-image: url("http://i.imgur.com/NhrI7FG.png");
+    background-image: url("http://i.imgur.com/NhrI7FG.png") !important;
 } 
 
 /* Brand Ambassadors */
