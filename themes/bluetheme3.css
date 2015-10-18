@@ -364,6 +364,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p a.username, /* tiochad */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p a.username, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560085f9621a9e030031729a .activity-row .text p a.username, /* riguel */
+#chat .chat-container ul.chat-main li.user-53fea08291f71c0200bab86b .activity-row .text p a.username, /* alecia */
 #chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p a.username { /* tatibrito */
     color: #AA74FE !important;
     font-weight: 600;
@@ -402,6 +403,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
+#chat .chat-container ul.chat-main li.user-53fea08291f71c0200bab86b .activity-row .text p:first-child, /* alecia */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
     padding-left: 15px;
 }
@@ -410,6 +412,7 @@ white-space: pre-line;
 #chat .chat-container ul.chat-main li.user-56094471ace5660300195a8b .activity-row .text p:first-child, /* lucaskpopper */
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
+#chat .chat-container ul.chat-main li.user-53fea08291f71c0200bab86b .activity-row .text p:first-child, /* alecia */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child { /* pr0 */
     background-image: url("http://i.imgur.com/1K7qQ4Z.png");
     background-repeat: no-repeat;
