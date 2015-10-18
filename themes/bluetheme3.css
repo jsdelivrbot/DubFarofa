@@ -477,8 +477,10 @@ ul.avatar-list li.vip p.username {
 }
 
 /* Brand Ambassadors */
-ul.avatar-list li.user-xuxa p.username,
-ul.avatar-list li.user-burkes p.username {
+ul.avatar-list li.user-burkes p.username,
+ul.avatar-list li.user-swordling p.username,
+ul.avatar-list li.user-sinful p.username,
+ul.avatar-list li.user-xuxa p.username {
     text-transform: capitalize;
     color: #89BE6C;
     padding-left: 11px;
