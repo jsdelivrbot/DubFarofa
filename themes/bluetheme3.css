@@ -520,6 +520,7 @@ ul.avatar-list li.user-xuxa p.username {
 #chat .chat-container ul.chat-main li.user-56093732e4bc7c0300041e7f .activity-row .text p:first-child a.username, /* tatibrito */
 #chat .chat-container ul.chat-main li.user-5609afc7914188030067b80e .activity-row .text p:first-child a.username, /* tiochad */
 #chat .chat-container ul.chat-main li.user-56098a6f81c87803009bf194 .activity-row .text p:first-child a.username, /* killkill */
+#chat .chat-container ul.chat-main li.user-56083b07a0e54d0300333859 .activity-row .text p:first-child a.username, /* ivo */
 #chat .chat-container ul.chat-main li.user-560db3e8f3dead0300978ef4 .activity-row .text p:first-child a.username { /* sonlux */
     padding-left: 18px;
 }
@@ -571,6 +572,7 @@ ul.avatar-list li.creator {
 #chat .chat-container ul.chat-main li.user-561f02d3a6c6320e0014a813 .activity-row .text p:first-child, /* chaneloberlin */
 #chat .chat-container ul.chat-main li.user-560086f6239f1303009c9217 .activity-row .text p:first-child, /* popps */
 #chat .chat-container ul.chat-main li.user-53fea08291f71c0200bab86b .activity-row .text p:first-child, /* alecia */
+#chat .chat-container ul.chat-main li.user-56083b07a0e54d0300333859 .activity-row .text p:first-child, /* ivo */
 #chat .chat-container ul.chat-main li.user-5600882b239f1303009c9247 .activity-row .text p:first-child, /* pr0 */
 ul.avatar-list li.manager {
     background-image: url("http://i.imgur.com/1K7qQ4Z.png");
