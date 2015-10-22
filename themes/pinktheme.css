@@ -1,6 +1,6 @@
 /*
     Custom CSS for Dubtrack.fm
-    Farofa Theme and UI improvements
+    Farofa theme and UI improvements
     https://www.dubtrack.fm/join/farofa-pop
     Made by @fu
 */
@@ -230,8 +230,6 @@ a:visited {
     color: #111;
     background: #ff7cb3;
     opacity: 0.75;
-    padding: 0em 1.125em;
-    font-size: 1em;
 }
  
 #main_player .player_container {
@@ -256,8 +254,6 @@ a:visited {
 #main_player .player_container .hideVideo-el {
     background: #ff7cb3;
     opacity: 0.75;
-    top: calc(100% - 20px);
-    display: none;
 }
  
 #main_player .player_container .error-el {
